@@ -6,6 +6,6 @@ Compilation
 
 ```bash
 cd current-desktop-notifier
-qmake-qt4
+qmake -qt4
 make
 ```
