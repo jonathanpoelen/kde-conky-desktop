@@ -1,0 +1,2 @@
+kde-conky-desktop
+=================
